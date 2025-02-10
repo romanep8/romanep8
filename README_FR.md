@@ -1,3 +1,5 @@
+🌐 **Read this in [English](README.md)**
+
 # Bienvenue sur mon profil 👩‍💻:
 Bonjour ! Moi c'est Romane, actuellement étudiante dans le domaine du digital et souhaitant me spécialiser en développement web. 
 Je suis en pleine exploration du monde du web mais la quête ne s'arrête jamais, j'aime être en constant apprentissage !
