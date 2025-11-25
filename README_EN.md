@@ -1,24 +1,30 @@
-🌐 **Read this in [English](README.md)**
+🇫🇷 **Lire cette page en [Français](README.md)**
 
-# Bienvenue sur mon profil 👩‍💻:
-Bonjour ! Moi c'est Romane, actuellement étudiante dans le domaine du digital et souhaitant me spécialiser en développement web. 
-Je suis en pleine exploration du monde du web et aime être en constant apprentissage !
-J'aime transformer toutes mes idées en projets concrets, alliant créativité et technique.
+Hello ! I’m Romane 🌼  
+Student in digital, I specialize in web development with an approach combining technique and human values. I attach particular importance to accessibility, ecodesign but also the visual consistency of each project.
 
-## Mes compétences ✨:
-### Langages :
+Curious and rigorous, I like to transform ideas into simple, modern and responsible web experiences.
+I am moving towards a full-stack journey, with a marked interest in UX and code quality.
+
+## My skills ✨:
+Comme une marguerite aux multiples pétales, ma formation me permet de développer des compétences multidisciplinaires, du développement web à l’UX/UI en passant par le marketing digital et le graphisme.
+### Développement web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Autres
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white )
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) 
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white )
 
+### Design & creation
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
@@ -26,15 +32,19 @@ J'aime transformer toutes mes idées en projets concrets, alliant créativité e
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Mes projets/objectifs actuels 📂:
-En ce moment, je travaille sur mon portfolio !
+## My current projects and goals 📂:
+At the moment, I am working on the development of my portfolio, showcase of my skills and extension of my visual identity!
 
-J'ai pour **objectifs** de : 
-- ⚡Approfondir mes compétences en HTML, CSS, JavaScript et PHP
-- 🚀Découvrir des frameworks modernes
-- 🎓Suivre des formations en ligne pour mieux comprendre les tendances numériques
+I am also Development & Digital Manager at [Unrest Studio](https://unreststudio.fr), a multidisciplinary creative studio, where I develop internal tools and web projects. 
 
-## Statistiques 📊
+Currently open to internship or work-study opportunities in web development.
+
+My **goals** : 
+- ⚡Deepen my front & back skills
+- 🚀Explore modern methods (frameworks, accessibility, best practices, ecodesign)
+- 🎓Strengthen my transversal skills (project management, communication...)
+
+## Statistics 📊
 ![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=romanep8&layout=compact&theme=radical)
 
 ## Contact 📎
