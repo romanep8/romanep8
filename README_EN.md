@@ -7,8 +7,8 @@ Curious and rigorous, I like to transform ideas into simple, modern and responsi
 I am moving towards a full-stack journey, with a marked interest in UX and code quality.
 
 ## My skills ✨:
-Comme une marguerite aux multiples pétales, ma formation me permet de développer des compétences multidisciplinaires, du développement web à l’UX/UI en passant par le marketing digital et le graphisme.
-### Développement web
+Like a daisy with multiple petals, my training allows me to develop multidisciplinary skills, from web development to UX/UI through digital marketing and graphic design.
+### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
