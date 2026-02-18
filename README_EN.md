@@ -44,8 +44,5 @@ My **goals** :
 - 🚀Explore modern methods (frameworks, accessibility, best practices, ecodesign)
 - 🎓Strengthen my transversal skills (project management, communication...)
 
-## Statistics 📊
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=romanep8&layout=compact&theme=radical)
-
 ## Contact 📎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romane-pouty/)
