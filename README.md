@@ -44,8 +44,5 @@ J'ai pour **objectifs** de :
 - 🚀Explorer des méthodes modernes (frameworks, accessibilité, bonnes pratiques, écoconception)
 - 🎓Renforcer mes compétences transversales (gestion de projet, communication…)
 
-## Statistiques 📊
-![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=romanep8&theme=tokyonight)
-
 ## Contact 📎
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romane-pouty/)
